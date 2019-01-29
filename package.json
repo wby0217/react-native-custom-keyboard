@@ -1,0 +1,42 @@
+{
+  "_from": "git+https://gitlab+deploy-token-8:3wtxEM4Szziyz8psPbeb@gitlab.baifu-tech.net/frontend/react-native-custom-keyboard.git#master",
+  "_id": "react-native-custom-keyboard@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-XnQ+lmKsNLtYKfktN5K4QX9Re4w=",
+  "_location": "/react-native-custom-keyboard",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "react-native-custom-keyboard@git+https://gitlab+deploy-token-8:3wtxEM4Szziyz8psPbeb@gitlab.baifu-tech.net/frontend/react-native-custom-keyboard.git#master",
+    "name": "react-native-custom-keyboard",
+    "escapedName": "react-native-custom-keyboard",
+    "rawSpec": "git+https://gitlab+deploy-token-8:3wtxEM4Szziyz8psPbeb@gitlab.baifu-tech.net/frontend/react-native-custom-keyboard.git#master",
+    "saveSpec": "git+https://gitlab+deploy-token-8:3wtxEM4Szziyz8psPbeb@gitlab.baifu-tech.net/frontend/react-native-custom-keyboard.git#master",
+    "fetchSpec": "https://gitlab%2Bdeploy-token-8:3wtxEM4Szziyz8psPbeb@gitlab.baifu-tech.net/frontend/react-native-custom-keyboard.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://gitlab+deploy-token-8:3wtxEM4Szziyz8psPbeb@gitlab.baifu-tech.net/frontend/react-native-custom-keyboard.git#452b75004842e16a5c10ca3a62144f420b659ec2",
+  "_spec": "react-native-custom-keyboard@git+https://gitlab+deploy-token-8:3wtxEM4Szziyz8psPbeb@gitlab.baifu-tech.net/frontend/react-native-custom-keyboard.git#master",
+  "_where": "/Users/bryan/MyWork/prometheus",
+  "author": {
+    "name": "kosun"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "prop-types": "^15.5.10",
+    "react-native-modalbox": "^1.4.1"
+  },
+  "deprecated": false,
+  "description": "the custom nemeric keyboard",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-custom-keyboard",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.kosun.net/frontend/react-native-custom-keyboard"
+  },
+  "version": "1.0.1"
+}
